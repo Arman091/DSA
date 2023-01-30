@@ -6,7 +6,7 @@ import random from 'random'
 const git = simplegit();
 const makeCommit = (n) => {
     if (n === 0) return git.push();
-    const x = random.int(30, 300);
+    const x = random.int(0, 280);
     const DATE = moment().subtract(1,'y').add(x,'d').format();
     const data = {
         date:DATE

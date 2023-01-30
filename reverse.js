@@ -1,6 +1,6 @@
 // Two pointer approach
 
-const myarray = [1, 2, 3, 5, 6, 8];
+const myarray = [1, 2, 3, 5, 6];
 
 let i = 0;
 let j = myarray.length - 1;

@@ -1,4 +1,4 @@
-const myarray = [10, 22, 33,23,90,55,5,7,9,10,11,12];
+const myarray = [10, 22, 33,23,90,55,5,7,9,10,11];
 
 // ++ insert element at given position ++
 

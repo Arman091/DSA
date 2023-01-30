@@ -1,6 +1,6 @@
 // Binary serach Works only on sorted array
 
-const myarray = [1, 2, 3, 9, 12, 34, 56, 67, 78, 89, 90];
+const myarray = [1, 2, 3, 9, 12, 34, 56, 67, 78, 89];
 
 
 

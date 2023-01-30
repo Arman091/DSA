@@ -1,4 +1,4 @@
-const myarray = [1, 2, 3, 5, 6, 8];
+const myarray = [1, 2, 3, 5, 6];
 let element = 5;
 let position = 3;
 console.log("array before deletion");
