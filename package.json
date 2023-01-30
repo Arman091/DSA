@@ -1,0 +1,28 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "dSa practice",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arman091/DSA.git"
+  },
+  "author": "arman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arman091/DSA/issues"
+  },
+  "homepage": "https://github.com/Arman091/DSA#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "simple": "^0.2.0",
+    "simple-git": "^3.16.0"
+  }
+}
