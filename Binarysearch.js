@@ -1,11 +1,5 @@
 // Binary serach Works only on sorted array
-
 const myarray = [1, 2, 3, 9, 12, 34, 56, 67, 78, 89];
-
-
-
-
-
 function searchnum(array, num) {
   let si = 0;
   let ei = array.length - 1;

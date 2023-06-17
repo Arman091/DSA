@@ -6,8 +6,8 @@ import random from 'random'
 const git = simplegit();
 const makeCommit = (n) => {
     if (n === 0) return git.push();
-    const x = random.int(0, 280);
-    const DATE = moment().subtract(1,'y').add(x,'d').format();
+    const x = random.int(270, 360);
+    const DATE = moment().subtract(2,'y').add(x,'d').format();
     const data = {
         date:DATE
     }
@@ -18,4 +18,4 @@ const makeCommit = (n) => {
     });
 }
 
-makeCommit(200)
+makeCommit(100)
